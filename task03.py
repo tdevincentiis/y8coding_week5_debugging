@@ -1,3 +1,4 @@
+name = input("enter name")
 if name == "Bob":
 print("Who are you Bob?")
 else:
@@ -5,6 +6,7 @@ else:
 
 
 ### What was wrong ?
-### DISCUSS HERE:
+### DISCUSS HERE: indented block fogot to add variable 
 ###
 ### Was this a... syntax, logical or runtime error?
+syntax 
